@@ -6,3 +6,5 @@ select * from SNOWPARK_DEMO_DB.SNOWPARK_DEMO_SCHEMA.MONTHLY_REVENUE;
 call SNOWPARK_DEMO_DB.SNOWPARK_DEMO_SCHEMA.DummyProc();
 
 --add comment
+
+--commnt
